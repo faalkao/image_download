@@ -1,5 +1,10 @@
 # Download sentinel 2, level 2A, within 2018-2019, created by Duong
 # Mainlaind Vietnam lon:lat 102-110:8-24
+
+# Installing some required library
+# pip3 install sentinelsat
+# pip3 install numpy
+
 import numpy as np
 import datetime
 import json
